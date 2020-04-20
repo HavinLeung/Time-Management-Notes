@@ -55,7 +55,7 @@ Now you have a concrete plan on how to tackle tasks and when to study for quizze
 
 Now I want to touch on the topic of **studying for exams**. Many of you probably just try to memorize everything and plug and chug through exams. You probably don't have a good method of studying and you are simply throwing all of your time towards it without any strategy. This is the **wrong** way to study. 
 
-For midterms, I generally start this process *a week* before my first midterm. For finals, I start *2-3 weeks in advance*. Write down a big ass to-do list for each course you have an exam for. For each course, write down tasks that you will need to complete in order to successfully complete the exam. Then, we just do the same method as before - make yourself a to-do list for every day. 
+For midterms, I generally start this process *a week* before my first midterm. For finals, I start *2-3 weeks in advance*. Write down a big to-do list for each course you have an exam for. For each course, write down tasks that you will need to complete in order to successfully complete the exam. Then, we just do the same method as before - make yourself a to-do list for every day. 
 
 **Note**: For this exam period, I like to do a calendar style to-do list as opposed to using Todoist since I'm planning so far in advance.
 
@@ -92,7 +92,7 @@ The last topic I'd like to cover is the topic of **stress and mental health**. T
 
 Try to exercise regularly. Exercise lets you de-stress and focus better on your work. **It's better to "lose an hour" in order to exercise before studying simply because it will make you study better**. Just trust me and do some exercise, whether it be lifting weights, going for a jog, doing yoga, whatever. Just get your body moving and your blood flowing. Thank me later.
 
-Eat healthier. Drink more water. Sleep more. Your brain does not function well on 2 large pizzas, 14 coffees, no water and 3 hours of sleep (I did this in my first semester. All that accomplished was make me fat and stressed and depressed). You will just be throwing your time at the problem and not actually making any progress.
+Eat healthier. Drink more water. Sleep more. Your brain does not function well on 2 large pizzas, 14 coffees, no water and 3 hours of sleep (I did this in my first semester. All that accomplished was make me fat, stressed, and depressed). You will just be throwing your time at the problem and not actually making any progress.
 
 Take study breaks! A 5-10 minute break every 20-30 minutes will let you come back feeling refreshed and ready to study more. Again, I want to emphasize that you want to study effectively, not just throw all your time at the problem.
 
