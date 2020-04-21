@@ -8,7 +8,7 @@ Why should you listen to me and my advice? Simple - I'm a high achieving student
 
 ## Why time management is so important
 
-If you've ever missed a deliverable or had to do something last minute, you were the victim or poor time management and organization! It's really hard to get good marks and balance out your time if you don't even know what's due and when.
+If you've ever missed a deliverable or had to do something last minute, you were the victim of poor time management and organization! It's really hard to get good marks and balance out your time if you don't even know what's due and when.
 
 You need to be able to keep up with assignments, labs, tests, etc... Unless you're naturally gifted as hell, you're going to have to learn how to plan out your time. I will describe the method that has worked for me.
 
